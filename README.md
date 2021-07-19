@@ -20,6 +20,7 @@ c) Interpretar el event log, para mostrar por consola (teniendo el abi correspon
 
 
 6. Crear un archivo index.js que al ejecutarlo con el interpreté de nodejs devuelva los eventos interpretados de dicha transacción para poder ser fácilmente leidos.
+6b. Adicionalmente, se pide un error handling básico e instrucciones escritas de cómo correr la solución.
 
 7. Al terminar, mergear rama de development a main o master y enviar url del repositorio.
 
